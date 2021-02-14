@@ -1,0 +1,16 @@
+{
+    "name": "i5/hoeworkfinaltwo",
+    "authors": [
+        {
+            "name": "denis-dubatolov",
+            "email": "denis-dubatolov@mail.ru"
+        }
+    ],
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/App/"
+        }
+    }
+}
